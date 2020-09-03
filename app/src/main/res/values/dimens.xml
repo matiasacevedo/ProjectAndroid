@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightToolBar">30dp</dimen>
+    <dimen name="heightLogoConfBeer">45dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="imageViewHome">150dp</dimen>
+    <dimen name="marginHomeSuptitulo">10dp</dimen>
+    <dimen name="tamanio_titulo">15sp</dimen>
+    <dimen name="tamanioSubtitulo">20sp</dimen>
+
+</resources>
