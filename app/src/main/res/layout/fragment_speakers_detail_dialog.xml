@@ -31,7 +31,7 @@
                 android:id="@+id/tvNameSpeaker"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Nombre Speaker"
+                android:text="Nombre y Apellido"
                 android:textSize="20sp"
                 android:gravity="center"
                 android:textColor="@color/colorPrimaryDark"
@@ -46,6 +46,13 @@
                 android:text="Cerveceria"
                 android:gravity="center"
                 />
+
+            <ImageView
+                android:id="@+id/ivTwitter"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:src="@drawable/ic_twitter"
+                android:layout_margin="10dp"/>
 
             <View
                 android:layout_width="match_parent"
