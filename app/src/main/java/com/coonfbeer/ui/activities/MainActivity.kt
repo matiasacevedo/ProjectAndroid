@@ -1,10 +1,10 @@
-package com.coonfbeer
+package com.coonfbeer.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.coonfbeer.R
 import com.coonfbeer.model.Conference
 import com.coonfbeer.model.Speaker
-import com.coonfbeer.model.Location
 import com.google.firebase.firestore.FirebaseFirestore
 import org.json.JSONArray
 import org.json.JSONObject
