@@ -8,5 +8,6 @@ class Speaker {
     var biography = "";
     var twitter = "";
     var image = "";
+    var workplace = ""
 }
 

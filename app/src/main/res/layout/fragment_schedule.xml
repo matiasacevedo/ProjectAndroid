@@ -7,13 +7,14 @@
     tools:context=".ui.fragments.ScheduleFragment">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvSpeakers"
+        android:id="@+id/rvSchedule"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
     </androidx.recyclerview.widget.RecyclerView>
 
     <RelativeLayout
+        android:id="@+id/rlBaseSchedule"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <View

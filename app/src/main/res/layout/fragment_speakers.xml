@@ -7,11 +7,12 @@
     tools:context=".ui.fragments.SpeakersFragment">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvSchedule"
+        android:id="@+id/rvSpeaker"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
     <RelativeLayout
+        android:id="@+id/rlBaseSpeaker"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <View

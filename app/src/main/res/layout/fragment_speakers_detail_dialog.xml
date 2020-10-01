@@ -38,11 +38,21 @@
                 />
 
             <TextView
-                android:id="@+id/tvSpeakerWork"
+                android:id="@+id/tvSpeakerWorkTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="15sp"
                 android:textColor="@color/colorPrimary"
+                android:text="Cerveceria"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/tvSpeakerWork"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@color/colorPrimaryDark"
                 android:text="Cerveceria"
                 android:gravity="center"
                 />
